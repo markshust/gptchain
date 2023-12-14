@@ -86,7 +86,8 @@ Once you have defined your custom arguments and message chain, use the `gptchain
 
 ```python
 from gptchain import gptchain
-    gptchain(custom_args, message_chain)
+
+gptchain(custom_args, message_chain)
 ```
 
 ## Configuration
